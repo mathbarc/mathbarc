@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 - 💬 Ask me about AI and Computer Vision!
 - 📫 How to reach me: 
   - Personal email: <a href=mailto:matheusbarcelosoliveira@gmail.com>matheusbarcelosoliveira@gmail.com</a>
-  - Company email: <a href=matheus.oliveira@syngenta.com>matheus.oliveira@syngenta.com</a>
-  - LinkedIn: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathbarc)](https://www.linkedin.com/in/mathbarc)
+  - Company email: <a href=mailto:matheus.oliveira@syngenta.com>matheus.oliveira@syngenta.com</a>
+  - LinkedIn: <a href=https://www.linkedin.com/in/mathbarc>/in/mathbarc</a>
   - [OpenCVismo](https://t.me/opencvBrasil) on Telegram
 
 
