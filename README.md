@@ -27,6 +27,6 @@ Here are some ideas to get you started:
 ### Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathbarc&show_icons=true&count_private=true&theme=merko" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbarc&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
+  <img src="https://github-readme-stats.vercel.app/api?username=mathbarc&show_icons=true&count_private=true&theme=dark" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbarc&theme=dark&hide=css,html,jupyter%20notebook" height = "165">
 </a>
