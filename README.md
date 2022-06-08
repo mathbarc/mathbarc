@@ -21,7 +21,7 @@ Here are some ideas to get you started:
   - Personal email: <a href=mailto:matheusbarcelosoliveira@gmail.com>matheusbarcelosoliveira@gmail.com</a>
   - Company email: <a href=mailto:matheus.oliveira@syngenta.com>matheus.oliveira@syngenta.com</a>
   - LinkedIn: <a href=https://www.linkedin.com/in/mathbarc>/in/mathbarc</a>
-  - [OpenCVismo](https://t.me/opencvBrasil) on Telegram
+  - For Computer Vision and AI discussions: [OpenCVismo](https://t.me/opencvBrasil) on Telegram
 
 
 ### Github Stats
