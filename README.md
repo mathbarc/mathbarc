@@ -11,7 +11,3 @@ I am Matheus, a AI Engineer currently working in @syngenta-digital. I am a Bsc. 
   - For Computer Vision and AI discussions: [OpenCVismo](https://t.me/opencvBrasil) on Telegram
   - Some works and results on my Youtube: [@mathbarc](https://www.youtube.com/@mathbarc)
 
-
-## Github Stats
-![](https://raw.githubusercontent.com/mathbarc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/mathbarc/github-stats/master/generated/overview.svg#gh-light-mode-only)
