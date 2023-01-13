@@ -13,9 +13,5 @@ I am Matheus, a AI Engineer currently working in @syngenta-digital. I am a Bsc. 
 
 
 ## Github Stats
-<center>
-<a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=mathbarc&show_icons=true&count_private=true&theme=dark" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbarc&theme=dark&layout=compact&hide=css,html,jupyter%20notebook" height = "165">
-</a>
-</center>
+![stats](https://raw.githubusercontent.com/mathbarc/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![stats](https://raw.githubusercontent.com/mathbarc/github-stats/master/generated/overview.svg#gh-light-mode-only)
