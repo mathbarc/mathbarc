@@ -12,9 +12,11 @@ I am Matheus, a AI Engineer currently working in @syngenta-digital. I am a Bsc. 
   - For Computer Vision and AI discussions: [OpenCVismo](https://t.me/opencvBrasil) on Telegram
   - Some works and results on my Youtube: [@mathbarc](https://www.youtube.com/@mathbarc)
 
-![https://github.com/mathbarc](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathbarc&theme=default) 
-
-![https://github.com/mathbarc](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathbarc&theme=transparent) 
-
-![https://github.com/mathbarc](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathbarc&theme=transparent) 
-![https://github.com/mathbarc](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathbarc&theme=transparent)
+<div align="center">
+<a href=https://github.com/mathbarc> <img src=http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathbarc&theme=transparent /> </a>
+<a href=https://github.com/mathbarc> <img src=http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=mathbarc&theme=transparent&utcOffset=-3 /> </a>
+</div>
+<div align="center">
+  <a href=https://github.com/mathbarc> <img src=http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathbarc&theme=transparent&exclude=html,css,shell/> </a>
+  <a href=https://github.com/mathbarc> <img src=http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathbarc&theme=transparent&exclude=html,css,shell/> </a>
+</div>
