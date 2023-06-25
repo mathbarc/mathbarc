@@ -12,22 +12,5 @@ I am Matheus, a AI Engineer currently working in @syngenta-digital. I am a Bsc. 
   - For Computer Vision and AI discussions: [OpenCVismo](https://t.me/opencvBrasil) on Telegram
   - Some works and results on my Youtube: [@mathbarc](https://www.youtube.com/@mathbarc)
 
-
-  
-<details>
-<p align="center">
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathbarc&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=mathbarc&hide_border=true&card_width=338&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=mathbarc&theme=transparent" />
-  </a>
-  <a href="https://github.com/wervlad">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mathbarc&langs_count=10&exclude_repo=&hide=jupyter%20notebook,vim%20script,cmake,makefile,batchfile,emacs%20lisp,css,html&layout=default&card_width=699&hide_border=true&theme=transparent" />
-  </a>
-</p>
-</details>
-
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathbarc&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathbarc&theme=default)
