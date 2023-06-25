@@ -12,7 +12,7 @@ I am Matheus, a AI Engineer currently working in @syngenta-digital. I am a Bsc. 
   - For Computer Vision and AI discussions: [OpenCVismo](https://t.me/opencvBrasil) on Telegram
   - Some works and results on my Youtube: [@mathbarc](https://www.youtube.com/@mathbarc)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vn7n24fzkq&theme=default) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=mathbarc&theme=transparent) 
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathbarc&theme=default) 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathbarc&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=mathbarc&theme=transparent) 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=mathbarc&theme=transparent)
